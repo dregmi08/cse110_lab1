@@ -93,6 +93,7 @@ Here are some my favorite classes that I've taken here in the CSE department:
  - [ ] Learn to use MongoDB
  - [ ] Improve my typing speed <sub>(it's only 48 wpm which slows me down significantly)</sub>
  - [ ] Get more into Leetcode ~ *I'm probably going to focus more on this during summer*
+ - [ ] Refresh my knowledge on git commands 
 
 I'm especially excited to work on a project team this quarter because I struggle a lot with coming up with creative ideas for projects. One of 
 my biggest points of contention is how to come up with a project idea that is not only challenging enough to teach me new things, but one that 
@@ -100,6 +101,11 @@ is fairly unique. What's challenging for me is that I usually start off by googl
 done 1000 times over (usually things like typeracers or to-do lists, ***and God knows we have enough of those***) and I end up getting 
 frustrated that I can't come up with something new. I think that working on a team with diverse programming backgrounds will help me gain
 some insight as to how people come up with new ideas for their projects. 
+
+What I'm also excited for in this class is refreshing my memory on some of the stuff I learned in classes like CSE 15L. When doing this lab, 
+I honestly forgot how to do a lot of the command line work. Here's what my earlier attempts of doing the lab looked like:
+
+
 
 
 
