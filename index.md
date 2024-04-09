@@ -22,7 +22,7 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
 + I adore picnics, and I try to have them as often as I can with my family
 + I'm on a little bit of a film journey at the moment, my favorite movie as of now is 
       [The Virgin Suicides](https://www.imdb.com/title/tt0159097/plotsummary/)
-+ I have a dog named Chakra ~ \*he's a malteese poodle who is strangely big for his breed?\*
++ I have a dog named Chakra ~ *he's a malteese poodle who is strangely big for his breed?*
 
 
 Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
