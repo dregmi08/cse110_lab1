@@ -13,12 +13,15 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
   First, some fun facts about me :
   
     - I really love going to art museums
-      - Some museums that I've been to include: Norton Simon, LACMA, The Getty Villa, The Getty Center, The Broad,
-        Borghese Gallery, The Louvre, Museé D'Orsay, the Vatican Museums
+      - Some museums that I've been to include: [Norton Simon](https://www.nortonsimon.org/), [LACMA](https://www.lacma.org/), 
+        [The Getty Villa](https://www.getty.edu/visit/villa/), [The Getty Center](https://www.getty.edu/visit/center/) , 
+        [The Broad](https://www.thebroad.org/), [Borghese Gallery](https://borghese.gallery/), [The Louvre](https://www.louvre.fr/en), 
+        [Museé D'Orsay](https://www.musee-orsay.fr/en), [the Vatican Museum](https://www.museivaticani.va/content/museivaticani/en.html)
     - I journal in my free time
     - I recently have been trying to cook more, and I've been finetuning my pasta, avocado toast, and kung pao chicken recipes
     - I adore picnics, and I try to have them as often as I can with my family
     - I'm on a little bit of a film journey at the moment
+    - I have a dog named Chakra (he's a malteese poodle who is strangely big for his breed?)
 
     Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
     better idea of my hobbies and interests:
@@ -42,13 +45,23 @@ Here are some my favorite classes that I've taken here in the CSE department:
 
  - [ ] Learn to use React
  - [ ] Learn to use Django
- - [ ] Learn HTML, Javascript, and CSS (especially CSS, I'm no good at web design)
+ - [ ] Learn HTML, Javascript, and CSS ~~(especially CSS, I'm no good at web design)~~
  - [ ] Learn to use MongoDB
  - [ ] Improve my typing speed
  - [ ] Get more into Leetcode
 
-Overall, my goals for this year mainly pertain to web development. Although I know that we won't just be learning about web development this 
-year 
+I'm especially excited to work on a project team this quarter because I struggle a lot with coming up with creative ideas for projects. One of 
+my biggest points of contention is how to come up with a project idea that is not only challenging enough to teach me new things, but one that 
+is fairly unique. What's challenging for me is that I usually start off by googling basic project ideas and tutorials that have already been 
+done 1000 times over (usually things like typeracers or to-do lists, ***and God knows we have enough of those***) and I end up getting 
+frustrated that I can't come up with something new. I think that working on a team with diverse programming backgrounds will help me gain
+some insight as to how people come up with new ideas for their projects.
+
+
+
+
+
+
 
 
 
