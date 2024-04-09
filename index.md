@@ -13,14 +13,15 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
   First, some fun facts about me :
   
     - I really love going to art museums
-      - Some museums that I've been to include: [Norton Simon](https://www.nortonsimon.org/), [LACMA](https://www.lacma.org/), 
+      - Some museums that I've been to include: [Norton Simon]( https://www.nortonsimon.org/ ), [LACMA](https://www.lacma.org/), 
         [The Getty Villa](https://www.getty.edu/visit/villa/), [The Getty Center](https://www.getty.edu/visit/center/) , 
         [The Broad](https://www.thebroad.org/), [Borghese Gallery](https://borghese.gallery/), [The Louvre](https://www.louvre.fr/en), 
         [Museé D'Orsay](https://www.musee-orsay.fr/en), [the Vatican Museum](https://www.museivaticani.va/content/museivaticani/en.html)
     - I journal in my free time
     - I recently have been trying to cook more, and I've been finetuning my pasta, avocado toast, and kung pao chicken recipes
     - I adore picnics, and I try to have them as often as I can with my family
-    - I'm on a little bit of a film journey at the moment
+    - I'm on a little bit of a film journey at the moment, my favorite movie as of now is [The Virgin Suicides]
+      (https://www.imdb.com/title/tt0159097/plotsummary/)
     - I have a dog named Chakra * (he's a malteese poodle who is strangely big for his breed?) *
 
     Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
@@ -43,13 +44,13 @@ Here are some my favorite classes that I've taken here in the CSE department:
  While I do enjoy theory classes, I've been trying to also develop some tcehnical skills that might come in handy for internships, jobs, and
  personal projects. A few of my programming goals for this year include:
 
- - [ ] Learn to use React ***This is the goal that I want to achieve the most out of everything here since React is very useful and it's       
+ - [ ] Learn to use React ~ ***This is the goal that I want to achieve the most out of everything here since React is very useful and it's       
        important that I learn***
  - [ ] Learn to use Django
  - [ ] Learn HTML, Javascript, and CSS ~~(especially CSS, I'm no good at web design)~~
  - [ ] Learn to use MongoDB
  - [ ] Improve my typing speed <sub>(it's only 48 wpm which slows me down significantly)</sub>
- - [ ] Get more into Leetcode
+ - [ ] Get more into Leetcode ~ *I'm probably going to focus more on this during summer*
 
 I'm especially excited to work on a project team this quarter because I struggle a lot with coming up with creative ideas for projects. One of 
 my biggest points of contention is how to come up with a project idea that is not only challenging enough to teach me new things, but one that 
