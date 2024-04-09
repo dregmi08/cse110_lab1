@@ -12,7 +12,7 @@ Here's my profile picture on Slack:
 1. [Drishti the Person](#drishti-the-person)
 2. [Drishti the Programmer](#drishti-the-programmer)
 
-## __Part 1: Drishti the Person__ 
+## __Drishti the Person__ 
   First, some fun facts about me :
   
 + I really love going to art museums
@@ -69,7 +69,7 @@ better idea of my hobbies and interests and personal life:
 
 ![Interstellar](https://i.ebayimg.com/images/g/m88AAOSwtC1gr5ry/s-l1600.jpg)
 
-## __Part 2: Drishti the Programmer__
+## __Drishti the Programmer__
 
 A little bit of my background as a programmer: I didn't really start coding until highschool, and even then, my exposure to coding was rather 
 limited. College is when I started diving into computer science, and it's when I started to learn that computer science encompasses so much 
