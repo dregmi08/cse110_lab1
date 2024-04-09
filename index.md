@@ -25,7 +25,32 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
 
 ## Part 2: Drishti the Programmer
 
-A little bit of my background as a programmer: I didn't really start coding until highschool, and even thrn, my exposure to coding 
+A little bit of my background as a programmer: I didn't really start coding until highschool, and even then, my exposure to coding was rather 
+limited. College is when I started diving into computer science, and it's when I started to learn that computer science encompasses so much more 
+than writing code. 
+
+Here are some my favorite classes that I've taken here in the CSE department:
+
+  1. CSE 105
+  2. CSE 101
+  3. CSE 100R
+  4. CSE 30
+
+ Half of the classes on the list above don't require you to write much code, and a lot of the content for those classes is very conceptual. 
+ While I do enjoy theory classes, I've been trying to also develop some tcehnical skills that might come in handy for internships, jobs, and
+ personal projects. A few of my programming goals for this year include:
+
+ - [ ] Learn to use React
+ - [ ] Learn to use Django
+ - [ ] Learn HTML, Javascript, and CSS (especially CSS, I'm no good at web design)
+ - [ ] Learn to use MongoDB
+ - [ ] Improve my typing speed
+ - [ ] Get more into Leetcode
+
+Overall, my goals for this year mainly pertain to web development. Although I know that we won't just be learning about web development this 
+year 
+
+
 
     
 
