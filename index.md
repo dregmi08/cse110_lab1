@@ -56,8 +56,8 @@ better idea of my hobbies and interests and personal life:
 ## __Part 2: Drishti the Programmer__
 
 A little bit of my background as a programmer: I didn't really start coding until highschool, and even then, my exposure to coding was rather 
-limited. College is when I started diving into computer science, and it's when I started to learn that computer science encompasses so much more 
-than writing code. 
+limited. College is when I started diving into computer science, and it's when I started to learn that computer science encompasses so much 
+more than writing code. 
 
 Here are some my favorite classes that I've taken here in the CSE department:
 
@@ -70,7 +70,7 @@ Here are some my favorite classes that I've taken here in the CSE department:
  While I do enjoy theory classes, I've been trying to also develop some tcehnical skills that might come in handy for internships, jobs, and
  personal projects. A few of my programming goals for this year include:
 
- - [ ] Learn to use React ~ ***This is the goal that I want to achieve the most out of everything here since React is very useful and it's       
+ - [ ] Learn to use React ~ ***This is the goal that I want to achieve the most out of everything here since React is very useful and it's      
        important that I learn***
  - [ ] Learn to use Django
  - [ ] Learn HTML, Javascript, and CSS ~~(especially CSS, I'm no good at web design)~~
@@ -85,7 +85,7 @@ done 1000 times over (usually things like typeracers or to-do lists, ***and God 
 frustrated that I can't come up with something new. I think that working on a team with diverse programming backgrounds will help me gain
 some insight as to how people come up with new ideas for their projects.
 
-
+> Hi
 
 
 
