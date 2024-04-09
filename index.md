@@ -7,7 +7,10 @@ Here's my profile picture on Slack:
 
 ![Picture of Drishti's Slack pfp](pic-for-personal-webpage/Drishti.jpeg)
 
-This webpage has two main parts: one pertaining to Drishti the person, and one pertaining to Drishti the programmer
+### Table of contents
+
+1. [Drishti the Person](#drishti-the-person)
+2. [Drishti the Programmer](#drishti-the-programmer)
 
 ## __Part 1: Drishti the Person__ 
   First, some fun facts about me :
@@ -53,7 +56,7 @@ better idea of my hobbies and interests and personal life:
 
 ### My Dog, Chakra
 
-![Chakra](cse110_lab1/pic-for-personal-webpage/chakra.jpg)
+![Chakra](pic-for-personal-webpage/chakra.jpg)
 
 > Above is a picture of my dog, Chakra. He's ten years old and is still just as energetic as he was when we first got him. He enjoys
 > making messes, going on walks, and harrassing me for my food whenever I eat a dish with meat in it
