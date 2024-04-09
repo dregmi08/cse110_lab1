@@ -105,9 +105,23 @@ some insight as to how people come up with new ideas for their projects.
 What I'm also excited for in this class is refreshing my memory on some of the stuff I learned in classes like CSE 15L. When doing this lab, 
 I honestly forgot how to do a lot of the command line work. Here's what my earlier attempts of doing the lab looked like:
 
+```
+drishtiregmi@Drishtis-MacBook-Air ~ % git add .gitignore
+fatal: not a git repository (or any of the parent directories): .git
+```
 
+```
+drishtiregmi@Drishtis-MacBook-Air ~ % git branch add-read-me       
+fatal: not a git repository (or any of the parent directories): .git
+```
+```
+drishtiregmi@Drishtis-MacBook-Air ~ % git checkout -b main                          
+fatal: not a git repository (or any of the parent directories): .git
+```
 
-
+As you can see, a lot of error messages. Honestly, I'm excited to see where this quarter takes me as a 
+computer science student. I'm hoping to begin to make the transition from programmer to software engineer,
+and I can't wait to build my techincal and interpersonal skills this quarter. 
 
 
 
