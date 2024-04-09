@@ -26,12 +26,24 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
 
 
 Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
-better idea of my hobbies and interests:
+better idea of my hobbies and interests and personal life:
 
+### Some Art Adventures
 ![Statue at the MET](pic-for-personal-webpage/statue2.jpg)
 
+![Painting at Moma](pic-for-personal-webpage/song-of-love.jpg)
 
+![Statue at Moma](pic-for-personal-webpage/unique-forms.jpg)
 
+### Some Cooking Adventures
+
+![Honey Glazed Salmon](pic-for-personal-webpage/salmon.jpg)
+
+![Ramen](pic-for-personal-webpage/ramen.jpg)
+
+### My Dog, Chakra
+
+![Chakra](pic-for-personal-webpage/chakra.jpg)
 
 ## __Part 2: Drishti the Programmer__
 
