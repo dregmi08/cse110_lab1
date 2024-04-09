@@ -31,19 +31,32 @@ better idea of my hobbies and interests and personal life:
 ### Some Art Adventures
 ![Statue at the MET](pic-for-personal-webpage/statue2.jpg)
 
+> I really wish I remembered the name of this statue, but it's honestly one of my favorites
+
 ![Painting at Moma](pic-for-personal-webpage/song-of-love.jpg)
 
+> Surrealist art is one of my favorite art styles, so it's always fun to look at Giorgio de Chirico's work
+
 ![Statue at Moma](pic-for-personal-webpage/unique-forms.jpg)
+
+> Another one of my favorite pieces, by Umberto Boccioni
 
 ### Some Cooking Adventures
 
 ![Honey Glazed Salmon](pic-for-personal-webpage/salmon.jpg)
 
+> Some honey glazed salmon I made, I almost burned the house down
+
 ![Ramen](pic-for-personal-webpage/ramen.jpg)
+
+> Some ramen I made in my dorm
 
 ### My Dog, Chakra
 
 ![Chakra](pic-for-personal-webpage/chakra.jpg)
+
+> Above is a picture of my dog, Chakra. He's ten years old and is still just as energetic as he was when we first got him. He enjoys
+> making messes, going on walks, and harrassing me for my food whenever I eat a dish with meat in it
 
 ### My Favorite Movies as of Late
 
@@ -83,9 +96,9 @@ my biggest points of contention is how to come up with a project idea that is no
 is fairly unique. What's challenging for me is that I usually start off by googling basic project ideas and tutorials that have already been 
 done 1000 times over (usually things like typeracers or to-do lists, ***and God knows we have enough of those***) and I end up getting 
 frustrated that I can't come up with something new. I think that working on a team with diverse programming backgrounds will help me gain
-some insight as to how people come up with new ideas for their projects.
+some insight as to how people come up with new ideas for their projects. 
 
-> Hi
+
 
 
 
