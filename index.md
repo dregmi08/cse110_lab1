@@ -45,6 +45,14 @@ better idea of my hobbies and interests and personal life:
 
 ![Chakra](pic-for-personal-webpage/chakra.jpg)
 
+### My Favorite Movies as of Late
+
+![The Virgin Suicides](https://m.media-amazon.com/images/I/61+TUeS1a6L._AC_SL1500_.jpg)
+
+![Kill Bill Pt:2](https://i5.walmartimages.com/asr/7b13f541-f324-479f-b4ef-ff24a696b1b0.6e8e0be2d469c9cfae4a4fa7287b0389.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF)
+
+![Interstellar](https://i.ebayimg.com/images/g/m88AAOSwtC1gr5ry/s-l1600.jpg)
+
 ## __Part 2: Drishti the Programmer__
 
 A little bit of my background as a programmer: I didn't really start coding until highschool, and even then, my exposure to coding was rather 
