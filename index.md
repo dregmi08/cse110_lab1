@@ -7,7 +7,7 @@ Here's my profile picture on Slack:
 
 ![Picture of Drishti's Slack pfp](pic-for-personal-webpage/Drishti.jpeg)
 
-This webpage has two main parts: one pertaining to Drishti the person, and one pertaining to Drishti the programmer
+This webpage has two main parts: one pertaining to [Drishti the person](, and one pertaining to Drishti the programmer
 
 ## __Part 1: Drishti the Person__ 
   First, some fun facts about me :
