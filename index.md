@@ -43,7 +43,8 @@ Here are some my favorite classes that I've taken here in the CSE department:
  While I do enjoy theory classes, I've been trying to also develop some tcehnical skills that might come in handy for internships, jobs, and
  personal projects. A few of my programming goals for this year include:
 
- - [ ] Learn to use React
+ - [ ] Learn to use React *** This is the goal that I want to achieve the most out of everything here since React is very useful and it's       
+       important that I learn ***
  - [ ] Learn to use Django
  - [ ] Learn HTML, Javascript, and CSS ~~(especially CSS, I'm no good at web design)~~
  - [ ] Learn to use MongoDB
