@@ -13,7 +13,7 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
   First, some fun facts about me :
   
     * I really love going to art museums
-      * Some museums that I've been to include: [Norton Simon](https://www.nortonsimon.org/), [LACMA](https://www.lacma.org/), 
+        Some museums that I've been to include: [Norton Simon](https://www.nortonsimon.org/), [LACMA](https://www.lacma.org/), 
         [The Getty Villa](https://www.getty.edu/visit/villa/), [The Getty Center](https://www.getty.edu/visit/center/) , 
         [The Broad](https://www.thebroad.org/), [Borghese Gallery](https://borghese.gallery/), [The Louvre](https://www.louvre.fr/en), 
         [Museé D'Orsay](https://www.musee-orsay.fr/en), [the Vatican Museum](https://www.museivaticani.va/content/museivaticani/en.html)
