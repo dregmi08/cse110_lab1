@@ -24,8 +24,9 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
       [The Virgin Suicides](https://www.imdb.com/title/tt0159097/plotsummary/)
     + I have a dog named Chakra ~ he's a malteese poodle who is strangely big for his breed?
 
-    Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
-    better idea of my hobbies and interests:
+
+Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
+better idea of my hobbies and interests:
 
 
 
