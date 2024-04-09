@@ -30,6 +30,8 @@ better idea of my hobbies and interests:
 
 
 
+
+
 ## __Part 2: Drishti the Programmer__
 
 A little bit of my background as a programmer: I didn't really start coding until highschool, and even then, my exposure to coding was rather 
