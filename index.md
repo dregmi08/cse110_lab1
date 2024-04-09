@@ -12,17 +12,17 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
 ## __Part 1: Drishti the Person__ 
   First, some fun facts about me :
   
-    + I really love going to art museums
++ I really love going to art museums
         Some museums that I've been to include: [Norton Simon](https://www.nortonsimon.org/), [LACMA](https://www.lacma.org/), 
         [The Getty Villa](https://www.getty.edu/visit/villa/), [The Getty Center](https://www.getty.edu/visit/center/) , 
         [The Broad](https://www.thebroad.org/), [Borghese Gallery](https://borghese.gallery/), [The Louvre](https://www.louvre.fr/en), 
         [Museé D'Orsay](https://www.musee-orsay.fr/en), [the Vatican Museum](https://www.museivaticani.va/content/museivaticani/en.html)
-    + I journal in my free time
-    + I recently have been trying to cook more, and I've been finetuning my pasta, avocado toast, and kung pao chicken recipes
-    + I adore picnics, and I try to have them as often as I can with my family
-    + I'm on a little bit of a film journey at the moment, my favorite movie as of now is 
++ I journal in my free time
++ I recently have been trying to cook more, and I've been finetuning my pasta, avocado toast, and kung pao chicken recipes
++ I adore picnics, and I try to have them as often as I can with my family
++ I'm on a little bit of a film journey at the moment, my favorite movie as of now is 
       [The Virgin Suicides](https://www.imdb.com/title/tt0159097/plotsummary/)
-    + I have a dog named Chakra ~ he's a malteese poodle who is strangely big for his breed?
++ I have a dog named Chakra ~ he's a malteese poodle who is strangely big for his breed?
 
 
 Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
