@@ -28,9 +28,8 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
 Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
 better idea of my hobbies and interests:
 
-![Statue at the MET Museum](pic-for-personal-webpage/statue.heic)
+![Statue at the MET](pic-for-personal-webpage/statue2.jpg)
 
-![Painting at the MOMA](pic-for-personal-webpage/song-of-love.heic)
 
 
 
