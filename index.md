@@ -27,6 +27,11 @@ This webpage has two main parts: one pertaining to Drishti the person, and one p
     Although it's hard to communicate what describes you as a person through a simple web page, here are some pictures that can give you a 
     better idea of my hobbies and interests:
 
+    - Item 1
+    - Item 2
+    - Item 3
+
+
 ## __Part 2: Drishti the Programmer__
 
 A little bit of my background as a programmer: I didn't really start coding until highschool, and even then, my exposure to coding was rather 
