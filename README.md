@@ -1,2 +1,2 @@
 # cse110_lab1
-first lab for CSE 110
+Link to Github Pages: https://dregmi08.github.io/cse110_lab1/
